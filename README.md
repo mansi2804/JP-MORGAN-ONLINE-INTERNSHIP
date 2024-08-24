@@ -1,6 +1,6 @@
 # JP-MORGAN-ONLINE-INTERNSHIP
 
-<p> I just completed J.P. Morgan's Software Engineering on Forage. 
+<p> I have completed J.P. Morgan's Software Engineering on Forage. 
   <br>
 In the simulation I:
 Set up a local dev environment by downloading the necessary files, tools and dependencies.
